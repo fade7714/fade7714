@@ -30,7 +30,7 @@
 
 **Systems & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,windows,vscode,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,windows,vscode,kali)](https://skillicons.dev)
 
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
