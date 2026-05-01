@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Fade 🖱️
+# 💻 Fade 
 ### Linux Enthusiast · Network Engineer · Python Developer
 
 *Technikum student — building real skills, one config file at a time*
